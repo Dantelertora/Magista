@@ -35,6 +35,8 @@ After considering all the variables, the recomendation is not to move forward wi
 
 For these reasons, we do not recommend to partner with Magista. It is important to highlight that the oportunities of the Brazilian market are clear, and finding another partner to enter it would be the most recommended option.
 
+Tableau visualizations https://public.tableau.com/app/profile/dante.lertora/viz/Magista/Sheet1?publish=yes
+
 ## Authors
 
 - [Dante Lertora](https://github.com/Dantelertora)
