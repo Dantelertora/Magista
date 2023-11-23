@@ -1,2 +1,2 @@
 # Magista
-Magista project WBS Data Science Bootcamp
+## WBS Data Science Bootcamp first project
